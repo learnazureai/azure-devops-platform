@@ -1,0 +1,22 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+
+# Terraform variables
+*.tfvars
+*.tfvars.json
+
+# Sensitive files
+*.pem
+*.key
+
+# Local overrides
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Environment variables
+.env
