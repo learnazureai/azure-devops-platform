@@ -20,3 +20,4 @@ override.tf.json
 
 # Environment variables
 .env
+terraform/state-backup.json
