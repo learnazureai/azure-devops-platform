@@ -5,3 +5,4 @@ variable "location" {
 variable "resource_group_name" {
   default = "rg-devops-platform"
 }
+
